@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "url": "https://example.com/default-video", // 单频道默认网址
+  "version": "002",
+  "updateTime": "2025-10-29",
+  "authorizedMacs": [
+    "02:00:00:44:55:66",
+    "AA:BB:CC:DD:EE:FF"
+  ],
+  "channelUrls": [ // 云端频道网址列表（可选，优先级高于内置）
+    "https://cloud-channel1.com",
+    "https://cloud-channel2.com",
+    "https://cloud-channel3.com"
+  ],
+  "channelNames": [ // 云端频道名称（可选）
+    "云端频道1",
+    "云端频道2",
+    "云端频道3"
+  ]
+}
