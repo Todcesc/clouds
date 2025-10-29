@@ -1,6 +1,6 @@
 {
   "success": true,
-  "url": "https://www.btime.com/btv/btvsy_index/", 
+  "url": "https://www.tv.cctv.cn/live/cctv2/", 
   "version": "002",
   "updateTime": "2025-10-29",
   "authorizedMacs": [
@@ -8,9 +8,9 @@
     "AA:BB:CC:DD:EE:FF"
   ],
   "channelUrls": [ 
-    "https://www.btime.com/btv/btvsy_index/",
-    "https://tv.cctv.cn/live/cctv2/",
-    "https://tv.cctv.cn/live/cctv3/"
+    "https://www.tv.cctv.cn/live/cctv2/",
+    "https://www.tv.cctv.cn/live/cctv2/",
+    "https://www.tv.cctv.cn/live/cctv3/"
   ],
   "channelNames": [ 
     "云端频道1",
