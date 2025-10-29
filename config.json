@@ -1,6 +1,6 @@
 {
   "success": true,
-  "url": "https://tv.cctv.cn/live/cctv12/", 
+  "url": "https://live.jstv.com/", 
   "version": "002",
   "updateTime": "2025-10-29",
   "authorizedMacs": [
@@ -8,7 +8,7 @@
     "AA:BB:CC:DD:EE:FF"
   ],
   "channelUrls": [ 
-    "https://tv.cctv.cn/live/cctv12/",
+    "https://live.jstv.com/",
     "https://tv.cctv.cn/live/cctv2/",
     "https://tv.cctv.cn/live/cctv3/"
   ],
