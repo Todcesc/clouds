@@ -1,6 +1,6 @@
 {
   "success": true,
-  "url": "https://live.jstv.com/", 
+  "url": "https://www.btime.com/btv/btvsy_index/", 
   "version": "002",
   "updateTime": "2025-10-29",
   "authorizedMacs": [
@@ -8,7 +8,7 @@
     "AA:BB:CC:DD:EE:FF"
   ],
   "channelUrls": [ 
-    "https://live.jstv.com/",
+    "https://www.btime.com/btv/btvsy_index/",
     "https://tv.cctv.cn/live/cctv2/",
     "https://tv.cctv.cn/live/cctv3/"
   ],
