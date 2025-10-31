@@ -1,0 +1,14 @@
+{
+  "strategyMappings": [
+    {
+      "domain": "tv.cctv.cn",
+      "strategyClassName": "com.videolauncher.videolauncher12.strategy.CCTVVideoStrategy",
+      "jsCode": "javascript:(function(){var container=document.querySelector('.live-player');if(container){var video=container.querySelector('video');if(video){video.style.width='100vw';video.style.height='100vh';video.muted=false;video.play().then(function(){setTimeout(function(){if(video.requestFullscreen)video.requestFullscreen();},500);}).catch(function(err){var btn=document.querySelector('.live-play-btn');if(btn)btn.click();VideoInterface.onPlayError('央视播放失败：'+err.message);});}}})()"
+    },
+    {
+      "domain": "*",
+      "strategyClassName": "com.videolauncher.videolauncher12.strategy.DefaultVideoStrategy",
+      "jsCode": "javascript:(function(){var video=document.querySelector('video');if(video){video.style.width='100%';video.play().then(function(){setTimeout(function(){video.requestFullscreen();},300);});}})()"
+    }
+  ]
+}

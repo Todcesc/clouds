@@ -1,0 +1,25 @@
+{
+  "channels": [
+    {
+      "channelId": "cctv1",
+      "channelName": "央视一套",
+      "channelLogoRes": "ic_cctv1",
+      "playUrl": "https://tv.cctv.cn/live/cctv1/",
+      "irKeyCode": 2
+    },
+    {
+      "channelId": "cctv2",
+      "channelName": "央视二套",
+      "channelLogoRes": "ic_cctv2",
+      "playUrl": "https://tv.cctv.cn/live/cctv2/",
+      "irKeyCode": 3
+    },
+    {
+      "channelId": "cctv3",
+      "channelName": "央视三套",
+      "channelLogoRes": "ic_cctv3",
+      "playUrl": "https://tv.cctv.cn/live/cctv3/",
+      "irKeyCode": 4
+    }
+  ]
+}

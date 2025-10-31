@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",          // 总版本号
+  "macVersion": "1.0.0",       // MAC白名单版本
+  "channelVersion": "1.0.0",   // 频道列表版本
+  "strategyVersion": "1.0.0"   // 播放策略版本
+}
