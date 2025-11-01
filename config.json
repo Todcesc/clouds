@@ -1,7 +1,7 @@
 {
   "success": true,
   "url": "https://tv.cctv.cn/live/cctv5/", 
-  "version": "002",
+  "version": "003",
   "updateTime": "2025-10-29",
   "authorizedMacs": [
     "02:00:00:44:55:66",
