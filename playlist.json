@@ -1,0 +1,23 @@
+[
+  {
+    "groupName": "央视",
+    "name": "cctv1",
+    "urls": [
+      "https://tv.cctv.cn/live/cctv1/"
+    ]
+  },
+  {
+    "groupName": "综艺频道",
+    "name": "cctv2",
+    "urls": [
+      "https://tv.cctv.cn/live/cctv2/"
+    ]
+  },
+  {
+    "groupName": "体育频道",
+    "name": "CCTV5",
+    "urls": [
+      "https://tv.cctv.cn/live/cctv5/"
+    ]
+  }
+]
