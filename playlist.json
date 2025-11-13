@@ -8,19 +8,123 @@
     ]
   },
   {
-    "groupName": "综艺频道",
+    "groupName": "央视",
     "name": "cctv2",
     "urls": [
       "https://tv.cctv.cn/live/cctv2/",
       "https://www.yangshipin.cn/tv/home?pid=600001800"
     ]
   },
-  {
-    "groupName": "体育频道",
-    "name": "CCTV5",
+    {
+    "groupName": "央视",
+    "name": "cctv3",
     "urls": [
-      "https://tv.cctv.cn/live/cctv5/",
+      "https://www.yangshipin.cn/tv/home?pid=600001801"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv4",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001814"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv5",
+    "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001818"
+    ]
+  },
+      {
+    "groupName": "央视",
+    "name": "cctv5+",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001817"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv6",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600108442"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv7",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600004092"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv8",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001803"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv9",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600004078"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv10",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001805"
+    ]
+  },
+    {
+    "groupName": "央视",
+    "name": "cctv11",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001806"
+    ]
+  },
+      {
+    "groupName": "央视",
+    "name": "cctv12",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001807"
+    ]
+  },
+      {
+    "groupName": "央视",
+    "name": "cctv13",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001811"
+    ]
+  },
+      {
+    "groupName": "央视",
+    "name": "cctv14",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001809"
+    ]
+  },
+      {
+    "groupName": "央视",
+    "name": "cctv15",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001815"
+    ]
+  },
+      {
+    "groupName": "央视",
+    "name": "cctv16-HD",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600098637"
+    ]
+  },
+  {
+    "groupName": "央视",
+    "name": "CCTV17",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600001810"
     ]
   }
 ]
