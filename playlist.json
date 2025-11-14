@@ -3,7 +3,7 @@
     "groupName": "央视",
     "name": "CCTV-1 综合",
     "urls": [
-      "https://tv.cctv.cn/live/cctv1/",
+      "https://www.yangshipin.cn/tv/home?pid=600001859",
       "https://www.yangshipin.cn/tv/home?pid=600001859"
     ]
   },
@@ -11,7 +11,7 @@
     "groupName": "央视",
     "name": "CCTV-2 财经",
     "urls": [
-      "https://tv.cctv.cn/live/cctv2/",
+      "https://www.yangshipin.cn/tv/home?pid=600001800",
       "https://www.yangshipin.cn/tv/home?pid=600001800"
     ]
   },
