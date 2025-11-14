@@ -1,7 +1,7 @@
 [
   {
     "groupName": "央视",
-    "name": "cctv1",
+    "name": "CCTV-1 综合",
     "urls": [
       "https://tv.cctv.cn/live/cctv1/",
       "https://www.yangshipin.cn/tv/home?pid=600001859"
@@ -9,7 +9,7 @@
   },
   {
     "groupName": "央视",
-    "name": "cctv2",
+    "name": "CCTV-2 财经",
     "urls": [
       "https://tv.cctv.cn/live/cctv2/",
       "https://www.yangshipin.cn/tv/home?pid=600001800"
@@ -17,112 +17,112 @@
   },
     {
     "groupName": "央视",
-    "name": "cctv3",
+    "name": "CCTV-3 综艺",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001801"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv4",
+    "name": "CCTV-4 中文国际",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001814"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv5",
+    "name": "CCTV-5 体育",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001818"
     ]
   },
       {
     "groupName": "央视",
-    "name": "cctv5+",
+    "name": "CCTV-5+ 体育+",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001817"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv6",
+    "name": "CCTV-6 电影",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600108442"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv7",
+    "name": "CCTV-7 国防军事",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600004092"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv8",
+    "name": "CCTV-8 电视剧",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001803"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv9",
+    "name": "CCTV-9 纪录",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600004078"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv10",
+    "name": "CCTV-10 科教",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001805"
     ]
   },
     {
     "groupName": "央视",
-    "name": "cctv11",
+    "name": "CCTV-11 戏剧",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001806"
     ]
   },
       {
     "groupName": "央视",
-    "name": "cctv12",
+    "name": "CCTV-12 社会与法",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001807"
     ]
   },
       {
     "groupName": "央视",
-    "name": "cctv13",
+    "name": "CCTV-13 新闻",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001811"
     ]
   },
       {
     "groupName": "央视",
-    "name": "cctv14",
+    "name": "CCTV-14 少儿",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001809"
     ]
   },
       {
     "groupName": "央视",
-    "name": "cctv15",
+    "name": "CCTV-15 音乐",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001815"
     ]
   },
       {
     "groupName": "央视",
-    "name": "cctv16-HD",
+    "name": "CCTV-16-HD 奥林匹克",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600098637"
     ]
   },
   {
     "groupName": "央视",
-    "name": "CCTV17",
+    "name": "CCTV-17 农业农村",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600001810"
     ]
