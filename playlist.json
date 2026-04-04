@@ -1,4 +1,11 @@
 [
+   {
+    "groupName": "卫视",
+    "name": "江苏卫视 看苏超",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600002521"
+    ]
+  },
   {
     "groupName": "央视",
     "name": "CCTV-1 综合",
@@ -139,13 +146,6 @@
     "name": "安徽卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600002532"
-    ]
-  },
-      {
-    "groupName": "卫视",
-    "name": "江苏卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid=600002521"
     ]
   },
       {
