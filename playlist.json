@@ -1,10 +1,53 @@
-[
-   {
-    "groupName": "卫视",
+  [
+{
+    "groupName": "江苏频道",
     "name": "江苏卫视 看苏超",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid=600002521"
-    ]
+    "urls": ["https://live.jstv.com/#go=0"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏卫视4K",
+    "urls": ["https://live.jstv.com/#go=1"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏城市 看苏超",
+    "urls": ["https://live.jstv.com/#go=2"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏综艺 看苏超",
+    "urls": ["https://live.jstv.com/#go=3"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏影视频道",
+    "urls": ["https://live.jstv.com/#go=4"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏体育休闲 看苏超",
+    "urls": ["https://live.jstv.com/#go=5"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏新闻频道 看苏超",
+    "urls": ["https://live.jstv.com/#go=6"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏教育",
+    "urls": ["https://live.jstv.com/#go=7"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "好享购物",
+    "urls": ["https://live.jstv.com/#go=8"]
+  },
+  {
+    "groupName": "江苏频道",
+    "name": "江苏国际",
+    "urls": ["https://live.jstv.com/#go=9"]
   },
   {
     "groupName": "央视",
